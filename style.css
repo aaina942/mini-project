@@ -24,6 +24,11 @@ body ,html{
     padding-top:10%;
    
 }
+
+h1{
+    color:white;
+}
+
 h2{
     text-transform: uppercase;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
